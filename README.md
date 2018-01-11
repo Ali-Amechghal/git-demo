@@ -12,3 +12,4 @@ Here the files in the website
 5. angular.json
 §. README.md
 7. test.js
+8. package.json

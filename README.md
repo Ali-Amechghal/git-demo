@@ -11,3 +11,4 @@ Here the files in the website
 4. app.module.ts
 5. angular.json
 §. README.md
+7. test.js

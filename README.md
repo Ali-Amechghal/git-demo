@@ -6,3 +6,4 @@
 Here the files in the website
 
 1. index.html
+1. style.css
